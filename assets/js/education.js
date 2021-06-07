@@ -5,24 +5,19 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
+    title: "AWS Fundamentals: Going Cloud-Native",
     cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    moocLink: "https://www.coursera.org/account/accomplishments/verify/C7UZF7KP4PRL",
   },
   {
-    title: "Cryptography",
+    title: "Apache Kafka Series - Apache Kafka for Beginners v2",
     cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    moocLink: "https://udemy-certificate.s3.amazonaws.com/image/UC-a0b8dabf-03df-4dc9-8674-de41f2c62227.jpg",
   },
   {
-    title: "Machine Learning",
+    title: "Neural Networks and Deep Learning",
     cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
-  },
-  {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    moocLink: "https://www.coursera.org/account/accomplishments/verify/5MWBG3JSX3LU?utm_source=link",
   },
   {
     title: "Introduction to CSS 3",
@@ -38,21 +33,6 @@ const moocscards = [
     title: "Bootstrap 4",
     cardImage: "assets/images/education-page/udemy.png",
     moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
-  },
-  {
-    title: "Intro to React",
-    cardImage: "assets/images/education-page/EdX.png",
-    moocLink: "https://www.edx.org/learn/reactjs",
-  },
-  {
-    title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
-  },
-  {
-    title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
   },
   {
     title: "XML-AJAX",
